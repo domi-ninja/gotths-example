@@ -1,3 +1,7 @@
+<!-- moved-to-gitlab -->
+> This repository moved to [GitLab](https://gitlab.com/dominic42/gotths-example).
+>
+> I moved off GitHub because it became unreliable after the Microsoft acquisition.
 # GoTTHS
 ## Golang Tailwind Templ Htmx Sqlc
 
