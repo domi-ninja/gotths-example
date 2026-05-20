@@ -1,3 +1,7 @@
+<!-- moved-to-codeberg -->
+> This repository moved to [Codeberg](https://codeberg.org/domi-ninja/gotths-example).
+>
+> I moved off GitHub because it became unreliable after the Microsoft acquisition.
 # GoTTHS
 ## Golang Tailwind Templ Htmx Sqlc
 
