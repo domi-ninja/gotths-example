@@ -31,7 +31,7 @@ func (app *App) HandleHealth(w http.ResponseWriter, r *http.Request) {
 	}
 
 	if newHealthCheckCreated.ID != newhealthCheckRead.ID {
-		log.Print("healthcheck id mismatch: %v != %v", newHealthCheckCreated.ID, newhealthCheckRead.ID)
+		log.Printf("healthcheck id mismatch: %v != %v", newHealthCheckCreated.ID, newhealthCheckRead.ID)
 		RespondWithError(w, http.StatusInternalServerError)
 		return
 	}
